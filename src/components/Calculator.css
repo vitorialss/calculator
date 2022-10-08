@@ -1,0 +1,40 @@
+button {
+    width: 3em;
+    height: 3em;
+    font-size: 1.5em;
+    border: none;
+    border-radius: 2em;
+    margin: 0.3em;
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+.wrapper {
+    background-color: #D61C4E;
+    border-radius: 1em;
+    padding: 1em;
+}
+
+.color {
+    background-color: #293462;
+    color: #fff;
+}
+
+.different-color {
+    background-color: #FEDB39;
+}
+
+.default-color {
+    background-color: #1CD6CE;
+}
+
+.result {
+    color: #fff;
+    display: flex;
+    justify-content: right;
+    margin-right: 1.5rem;
+    font-size: 3em;
+
+}
